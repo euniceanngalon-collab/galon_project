@@ -8,4 +8,4 @@ Flutter Web / Dart; planned REST API and PostgreSQL.
 Run locally
 
 First checkpoint
-Date: 2026-10-15 Commit: 
+Date: 2026-10-15 Commit: a394f86 
