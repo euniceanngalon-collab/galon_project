@@ -1,17 +1,11 @@
-# galon_project
+Galon
+Summary
+A simple starting point for a community water-delivery app: the home screen introduces doorstep water delivery, and the login screen provides a sign-in interface. Authentication and delivery ordering are not connected yet.
 
-A new Flutter project.
+Current stack
+Flutter Web / Dart; planned REST API and PostgreSQL.
 
-## Getting Started
+Run locally
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+First checkpoint
+Date: 2026-10-15 Commit: 
